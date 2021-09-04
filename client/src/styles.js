@@ -10,7 +10,7 @@ export default makeStyles(() => ({
     alignItems: 'center',
   },
   heading: {
-    color: 'black',
+    color: '#000000',
     fontFamily: 'roboto',
   },
   image: {
