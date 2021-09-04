@@ -1,5 +1,7 @@
+
 # frame-up
 
+<img width="943" alt="ss" src="https://user-images.githubusercontent.com/64359203/132103633-81b5aa3f-a968-4a87-aa6b-6bd827525441.png">
 
 ### Front-End - React + Redux
 
